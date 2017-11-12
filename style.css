@@ -1,0 +1,98 @@
+body
+ {
+  background-color: white;
+ }
+ html,body{
+ height:100%
+ }
+.masuk
+{
+	background-color: #FF6666;
+	width:20%;
+	height: 50px;
+	font-family: Comic Sans MS;
+	text-align:center;
+	margin: 0px;
+	
+
+ 
+form {
+	width:800px;
+	margin:40px auto;
+	}
+	.search {
+	padding:8px 50px;
+	background:white;
+	border:1px solid #000000;
+	}
+	.button {
+	position:absolute;
+	padding:6px 15px;
+	left:820px;
+	border:2px solid #000000;
+	background-color:#D9D9D9;
+	color:#000000;
+	}
+	.button:hover  {
+	background-color:#fafafa;
+	color:#207cca;
+}
+.font{
+	align:left;
+}
+ 
+ 
+.menu 
+ {
+  background-color: #CC9F7A;
+  width:10%;
+  height: 50px;
+  font-family: Comic Sans MS;
+  text-align:center;
+  margin: 0px;
+ }
+ 
+.menu a 
+ {
+  color: #fff;
+  /*padding: 15px 15px 2px 15px;*/
+  text-decoration: none;
+  font-weight: bold;
+  font-size:11px;
+  color:initial;
+ }
+   
+.menu a:hover
+ {
+  color: white;
+  border-bottom: solid 4px #ffffff;
+ }
+ 
+.judul 
+ {
+  font-family: Tahoma;
+  font-size: 10px;
+  text-align: center;
+  font-weight: bold;
+ }
+ #margin{
+	margin:0;
+	
+ }
+.quote 
+ {
+  text-align:left;
+ }
+ 
+.footer
+ {
+  background-color: white;
+  height: 20px;
+  font-family: Tahoma;
+  text-align: center;
+  font-size: 13px;
+  margin-top: 5px;
+  color: #fff;
+ }
+ 
+ 
